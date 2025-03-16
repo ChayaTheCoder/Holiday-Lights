@@ -1,4 +1,18 @@
-
+/**
+ * The HolidayLights class demonstrates the functionality of the LightChain 
+ * class by performing a series of operations on a linked list of holiday lights.
+ * It creates a light chain, inserts a new light, removes an existing light, 
+ * and replaces a light with another color.
+ * 
+ * Tasks performed in this program:
+ * - Create a LightChain with initial colors.  
+ * - Traverse and display the LightChain.  
+ * - Insert a new light after a specified color.  
+ * - Remove a light of a specific color.  
+ * - Replace all occurrences of a color with another color.  
+ * 
+ * @ Michaya Mohamed
+ */
 public class HolidayLights {
     public static void main(String argv[]) {
         // Task 1: Creating the Light Chains and link them.
