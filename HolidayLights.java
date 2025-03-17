@@ -11,8 +11,8 @@
  * - Remove a light of a specific color.  
  * - Replace all occurrences of a color with another color.  
  * 
- * @Author: Michaya Mohamed
- * @Version: 3-16-25
+ * @version Mar 16, 2025
+ * 
  */
 public class HolidayLights {
     public static void main(String argv[]) {
