@@ -4,8 +4,8 @@
  * but you can remove some or change some by
  * colors.
  * 
- * @Author: Michaya Mohamed
- * @Version: 3-16-25
+ * @version Mar 16, 2025
+ * 
  */
 class LightChain {
 
